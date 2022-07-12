@@ -1,0 +1,247 @@
+.div1{
+    
+    background-color: brown;
+    border-bottom: 10px solid orangered;
+    border-top: 10px solid brown;
+
+}
+ul{
+
+    display: flex;
+    list-style: none;
+    color: white;
+  
+}
+li{
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+.button1{
+    background-color: red;
+    border-color: red;
+    width: 100px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.ttt{
+    margin-left: 700px;
+}
+.div2{
+
+    background-color: rgb(35, 33, 33);
+    color: white;
+    padding: 120px;
+}
+.sun{
+    background-color: black;
+    padding: 20px;
+    color: red;
+}
+#div3{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: grey;
+    border-width: 20px;
+}
+#circles{
+    margin-top: 10px;
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: grey;
+    border-width: 15px;
+    text-align: center;
+    margin-right: 40px;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    justify-content: center;
+    
+}
+.button2{
+    background-color: red;
+    border-color: red;
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.button3{
+    background-color: red;
+    border-color: red;
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.button4{
+    background-color: red;
+    border-color: red;
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.button5{
+    background-color: red;
+    border-color: red;
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.button6{
+    background-color: red;
+        border-color: red;
+        width: 150px;
+        height: 40px;
+        border-radius: 70px;
+        color: white;
+}
+.button7{
+    background-color: red;
+    border-color: red;
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.button8{
+    background-color:rgb(118, 118, 34);
+    border-color:rgb(118, 118, 34);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.button9{
+    background-color: rgb(49, 182, 248);
+    border-color: rgb(49, 182, 248);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.button10{
+    background-color: rgb(59, 142, 59);
+    border-color:rgb(59, 142, 59);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white; 
+}
+.button11{
+    background-color: rgb(31, 182, 209);
+    border-color: rgb(31, 182, 209);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white; 
+}
+.button12{
+    background-color: rgb(66, 176, 125);
+    border-color: rgb(66, 176, 125);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white; 
+}
+.button13{
+    background-color: red;
+    border-color: red;
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white; 
+}
+.button14{
+    background-color:rgb(44, 44, 97);
+    border-color: rgb(44, 44, 97);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;  
+}
+.button15{
+    background-color: rgb(59, 207, 59);
+    border-color: rgb(59, 142, 59);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white; 
+}
+.button16{
+    background-color: rgb(99, 58, 148);
+    border-color: rgb(99, 58, 148);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.button17{
+    background-color: rgb(201, 74, 74);
+    border-color: rgb(201, 74, 74);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.button18{
+    background-color: rgb(34, 34, 73);
+    border-color: rgb(34, 34, 73);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.button19{
+    background-color: rgb(230, 82, 168);
+    border-color: rgb(230, 82, 168);
+    width: 150px;
+    height: 40px;
+    border-radius: 70px;
+    color: white;
+}
+.circlesize{
+    font-size: 80px;   
+}
+.imagesize{
+    width: 350px;
+    height: 150px;
+}
+.imagesize1{
+    width: 400px;
+    height: 3500px;
+}
+body{
+    margin: 0px;
+}
+header{
+    border: 1px grey ;
+}
+.flexcontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    order: 3;
+    
+}
+.item{
+    line-height: 1;
+    text-align: center;
+    padding: 20px;
+    background: rgb(79, 75, 75);
+    margin: 10px;
+}
+
+
+
+
+
